@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "IgXLpmA8+CtdOapwDdclLorUj5c",
+	"hash": "vaKiU/vcejrPulnEGSSOcvzh460",
 	"spine": "3.8.99",
 	"x": -325.5,
 	"y": -317,
@@ -22,7 +22,7 @@
 	{ "name": "star2", "parent": "bg", "x": 61.83, "y": -71.67 },
 	{ "name": "star3", "parent": "bg", "x": 128.73, "y": -129.7 },
 	{ "name": "money-number", "parent": "root", "y": -245.29 },
-	{ "name": "text-bigwin", "parent": "root", "y": 166.43 },
+	{ "name": "text-megawin", "parent": "root", "y": 172 },
 	{ "name": "megawin mascot", "parent": "root", "x": -1.76, "y": -188.14 },
 	{ "name": "megawin mascot2", "parent": "megawin mascot", "length": 45.28, "rotation": 99.06, "x": 0.07, "y": 2.8 },
 	{ "name": "megawin mascot3", "parent": "megawin mascot2", "length": 49.98, "rotation": -5.71, "x": 63.45, "y": -1.26 },
@@ -111,7 +111,7 @@
 				}
 			},
 			"popup": {
-				"megawin popup": { "x": -11.5, "y": -0.5, "width": 628, "height": 310 }
+				"megawin popup": { "x": -2, "y": -0.5, "width": 628, "height": 310 }
 			},
 			"popup decor": {
 				"popup decor": { "width": 619, "height": 311 }

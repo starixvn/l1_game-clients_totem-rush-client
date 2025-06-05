@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "qjThw04bJ9Hv/OjMBewR372o/98",
+	"hash": "lTkWKMdIerm2T68oTQGqYR7gN+U",
 	"spine": "3.8.99",
 	"x": -59,
 	"y": -58,
@@ -35,12 +35,12 @@
 	{ "name": "s5 star2", "bone": "s5 star2", "attachment": "s5 star" },
 	{ "name": "s5 star3", "bone": "s5 star3", "attachment": "s5 star" },
 	{ "name": "s5 clip1", "bone": "gold", "attachment": "s5 clip1" },
-	{ "name": "s5 gold highlight", "bone": "s5 gold highlight", "color": "ffffff89", "attachment": "s5 gold highlight" },
-	{ "name": "s5 gold highlight2", "bone": "s5 gold highlight2", "color": "ffffff89", "attachment": "s5 gold highlight" },
+	{ "name": "s5 gold highlight", "bone": "s5 gold highlight", "color": "ffffff89" },
+	{ "name": "s5 gold highlight2", "bone": "s5 gold highlight2", "color": "ffffff89" },
 	{ "name": "s5 clip2", "bone": "gold", "attachment": "s5 clip2" },
-	{ "name": "s5 gold highlight3", "bone": "s5 gold highlight3", "color": "ffffff89", "attachment": "s5 gold highlight" },
+	{ "name": "s5 gold highlight3", "bone": "s5 gold highlight3", "color": "ffffff89" },
 	{ "name": "s5 clip3", "bone": "gold", "attachment": "s5 clip3" },
-	{ "name": "s5 gold highlight4", "bone": "s5 gold highlight4", "color": "ffffff89", "attachment": "s5 gold highlight" },
+	{ "name": "s5 gold highlight4", "bone": "s5 gold highlight4", "color": "ffffff89" },
 	{ "name": "smoke1/Smoke_explode_1", "bone": "smoke1" },
 	{ "name": "smoke1/Smoke_explode_2", "bone": "smoke3" },
 	{ "name": "smoke2/Smoke_1", "bone": "smoke2" }
@@ -191,26 +191,6 @@
 					{ "time": 0.5, "color": "ffffff00" }
 				]
 			},
-			"s5 gold highlight": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"s5 gold highlight2": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"s5 gold highlight3": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"s5 gold highlight4": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
 			"s5 star": {
 				"attachment": [
 					{ "name": null }
@@ -355,6 +335,28 @@
 		}
 	},
 	"highlight": {
+		"slots": {
+			"s5 gold highlight": {
+				"attachment": [
+					{ "name": "s5 gold highlight" }
+				]
+			},
+			"s5 gold highlight2": {
+				"attachment": [
+					{ "name": "s5 gold highlight" }
+				]
+			},
+			"s5 gold highlight3": {
+				"attachment": [
+					{ "name": "s5 gold highlight" }
+				]
+			},
+			"s5 gold highlight4": {
+				"attachment": [
+					{ "name": "s5 gold highlight" }
+				]
+			}
+		},
 		"bones": {
 			"s5 gold highlight": {
 				"translate": [
