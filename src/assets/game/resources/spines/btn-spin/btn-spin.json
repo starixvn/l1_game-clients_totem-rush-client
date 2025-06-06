@@ -1,14 +1,5 @@
 {
-"skeleton": {
-	"hash": "judIbVLnrtHUlclD/+w8d7Z/cIY",
-	"spine": "3.8.99",
-	"x": -88.22,
-	"y": -89.21,
-	"width": 177.45,
-	"height": 185.43,
-	"images": "./images/",
-	"audio": "F:/WorkFolder/9 slotgame lucky luke/animation/spin"
-},
+"skeleton": { "hash": "mcMhWOwztraBzsrYkmWgW8lggZY", "spine": "3.8.99", "images": "./images/", "audio": "F:/WorkFolder/9 slotgame lucky luke/animation/spin" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "gun", "parent": "root" },
@@ -19,7 +10,8 @@
 	{ "name": "explode", "parent": "effect" },
 	{ "name": "explode2", "parent": "effect" },
 	{ "name": "explode3", "parent": "effect" },
-	{ "name": "bang", "parent": "effect", "y": 100 }
+	{ "name": "bang", "parent": "effect", "y": 100 },
+	{ "name": "disable-black-overlay", "parent": "gun", "scaleX": 1.93, "scaleY": 1.93 }
 ],
 "slots": [
 	{ "name": "bang/bang1", "bone": "bang" },
@@ -27,14 +19,15 @@
 	{ "name": "explode/explode2", "bone": "explode2" },
 	{ "name": "explode/explode3", "bone": "explode3" },
 	{ "name": "smoke", "bone": "smoke1" },
-	{ "name": "bg", "bone": "gun", "attachment": "bg" },
-	{ "name": "ring bullet", "bone": "ring", "attachment": "ring bullet" },
-	{ "name": "bullet", "bone": "ring", "attachment": "bullet" },
-	{ "name": "bullet 1 copy", "bone": "ring", "attachment": "bullet" },
-	{ "name": "bullet 1 copy 4", "bone": "ring", "attachment": "bullet" },
-	{ "name": "bullet 1 copy 5", "bone": "ring", "attachment": "bullet" },
-	{ "name": "bullet 1 copy 2", "bone": "ring", "attachment": "bullet" },
-	{ "name": "bullet 1 copy 3", "bone": "ring", "attachment": "bullet" }
+	{ "name": "bg", "bone": "gun" },
+	{ "name": "ring bullet", "bone": "ring" },
+	{ "name": "bullet", "bone": "ring" },
+	{ "name": "bullet 1 copy", "bone": "ring" },
+	{ "name": "bullet 1 copy 4", "bone": "ring" },
+	{ "name": "bullet 1 copy 5", "bone": "ring" },
+	{ "name": "bullet 1 copy 2", "bone": "ring" },
+	{ "name": "bullet 1 copy 3", "bone": "ring" },
+	{ "name": "black-72-disable", "bone": "disable-black-overlay" }
 ],
 "skins": [
 	{
@@ -50,6 +43,9 @@
 			},
 			"bg": {
 				"bg": { "x": 0.5, "y": 3.5, "rotation": 0.14, "width": 177, "height": 185 }
+			},
+			"black-72-disable": {
+				"black-72-disable": { "width": 100, "height": 100 }
 			},
 			"bullet": {
 				"bullet": { "x": -28.5, "y": 50.5, "width": 43, "height": 43 }
@@ -103,48 +99,17 @@
 	}
 ],
 "animations": {
+	"disable": {
+		"slots": {
+			"black-72-disable": {
+				"attachment": [
+					{ "name": "black-72-disable" }
+				]
+			}
+		}
+	},
 	"hover": {
 		"slots": {
-			"bg": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 2": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 3": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 4": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 5": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"ring bullet": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
 			"smoke": {
 				"color": [
 					{ "time": 0.6667, "color": "ffffffff" },
@@ -165,6 +130,48 @@
 		}
 	},
 	"idle": {
+		"slots": {
+			"bg": {
+				"attachment": [
+					{ "name": "bg" }
+				]
+			},
+			"bullet": {
+				"attachment": [
+					{ "name": "bullet" }
+				]
+			},
+			"bullet 1 copy": {
+				"attachment": [
+					{ "name": "bullet" }
+				]
+			},
+			"bullet 1 copy 2": {
+				"attachment": [
+					{ "name": "bullet" }
+				]
+			},
+			"bullet 1 copy 3": {
+				"attachment": [
+					{ "name": "bullet" }
+				]
+			},
+			"bullet 1 copy 4": {
+				"attachment": [
+					{ "name": "bullet" }
+				]
+			},
+			"bullet 1 copy 5": {
+				"attachment": [
+					{ "name": "bullet" }
+				]
+			},
+			"ring bullet": {
+				"attachment": [
+					{ "name": "ring bullet" }
+				]
+			}
+		},
 		"bones": {
 			"ring": {
 				"rotate": [
@@ -229,40 +236,56 @@
 					{ "time": 2.8667, "name": null }
 				]
 			},
+			"bg": {
+				"attachment": [
+					{ "name": "bg" }
+				]
+			},
 			"bullet": {
 				"attachment": [
+					{ "name": "bullet" },
 					{ "time": 0.6667, "name": null },
 					{ "time": 3.0667, "name": "bullet" }
 				]
 			},
 			"bullet 1 copy": {
 				"attachment": [
+					{ "name": "bullet" },
 					{ "time": 0.1667, "name": null },
 					{ "time": 3.0333, "name": "bullet" }
 				]
 			},
 			"bullet 1 copy 2": {
 				"attachment": [
+					{ "name": "bullet" },
 					{ "time": 1.1667, "name": null },
 					{ "time": 3.1, "name": "bullet" }
 				]
 			},
 			"bullet 1 copy 3": {
 				"attachment": [
+					{ "name": "bullet" },
 					{ "time": 2.6667, "name": null },
 					{ "time": 3.2, "name": "bullet" }
 				]
 			},
 			"bullet 1 copy 4": {
 				"attachment": [
+					{ "name": "bullet" },
 					{ "time": 1.6667, "name": null },
 					{ "time": 3.1333, "name": "bullet" }
 				]
 			},
 			"bullet 1 copy 5": {
 				"attachment": [
+					{ "name": "bullet" },
 					{ "time": 2.1667, "name": null },
 					{ "time": 3.1667, "name": "bullet" }
+				]
+			},
+			"ring bullet": {
+				"attachment": [
+					{ "name": "ring bullet" }
 				]
 			}
 		},
@@ -312,41 +335,6 @@
 	},
 	"spin-extra": {
 		"slots": {
-			"bg": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 2": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 3": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 4": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"bullet 1 copy 5": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
 			"explode/explode1": {
 				"attachment": [
 					{ "time": 0.5, "name": "explode/explode1" },
@@ -378,11 +366,6 @@
 					{ "time": 0.7667, "name": "explode/explode5" },
 					{ "time": 0.8, "name": "explode/explode6" },
 					{ "time": 0.8333, "name": null }
-				]
-			},
-			"ring bullet": {
-				"attachment": [
-					{ "name": null }
 				]
 			}
 		},
