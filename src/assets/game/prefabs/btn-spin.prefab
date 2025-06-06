@@ -913,8 +913,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 100,
-      "height": 100
+      "width": 170,
+      "height": 170
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -953,8 +953,8 @@
       "__uuid__": "e2f8bcd4-ba10-4cb0-90b1-612d28175405",
       "__expectedType__": "sp.SkeletonData"
     },
-    "defaultSkin": "",
-    "defaultAnimation": "",
+    "defaultSkin": "default",
+    "defaultAnimation": "disable",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 1,
