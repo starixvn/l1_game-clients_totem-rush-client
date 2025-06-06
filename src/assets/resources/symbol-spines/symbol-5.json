@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "lTkWKMdIerm2T68oTQGqYR7gN+U",
+	"hash": "FI1/PGfX7Uuwg8zuI1KpOS7iK5A",
 	"spine": "3.8.99",
 	"x": -59,
 	"y": -58,
@@ -15,7 +15,7 @@
 	{ "name": "smoke1", "parent": "effect" },
 	{ "name": "circle light", "parent": "effect" },
 	{ "name": "smoke2", "parent": "effect" },
-	{ "name": "s5", "parent": "root" },
+	{ "name": "s5", "parent": "root", "scaleX": 0.95, "scaleY": 0.95 },
 	{ "name": "gold", "parent": "s5" },
 	{ "name": "s5 star", "parent": "s5", "x": 34.34, "y": 32.08 },
 	{ "name": "s5 gold highlight", "parent": "gold", "x": 11.91, "y": 0.05 },
