@@ -1,151 +1,433 @@
 {
-"skeleton": {
-	"hash": "8JpfzIJzibcx4EXVsdiZosWSS20",
-	"spine": "3.8.99",
-	"x": -320,
-	"y": -317,
-	"width": 636,
-	"height": 642,
-	"images": "./images/",
-	"audio": "F:/WorkFolder/9 slotgame lucky luke/animation/transition"
-},
-"bones": [
-	{ "name": "root" },
-	{ "name": "frame comic", "parent": "root" },
-	{ "name": "fly", "parent": "root", "scaleX": 2, "scaleY": 2 },
-	{ "name": "scale", "parent": "frame comic" }
-],
-"slots": [
-	{ "name": "BG trans2", "bone": "scale", "attachment": "BG trans2" },
-	{ "name": "BG trans1", "bone": "scale" },
-	{ "name": "fly money/fly_0", "bone": "fly" }
-],
-"skins": [
-	{
-		"name": "default",
-		"attachments": {
-			"BG trans1": {
-				"BG trans1": { "x": -2, "y": 4, "width": 636, "height": 642 }
-			},
-			"BG trans2": {
-				"BG trans2": { "x": -2, "y": 4, "width": 636, "height": 642 }
-			},
-			"fly money/fly_0": {
-				"fly money/fly_0": { "width": 699, "height": 393 },
-				"fly money/fly_1": { "width": 699, "height": 393 },
-				"fly money/fly_2": { "width": 699, "height": 393 },
-				"fly money/fly_3": { "width": 699, "height": 393 },
-				"fly money/fly_4": { "width": 699, "height": 393 },
-				"fly money/fly_5": { "width": 699, "height": 393 },
-				"fly money/fly_6": { "width": 699, "height": 393 },
-				"fly money/fly_7": { "width": 699, "height": 393 },
-				"fly money/fly_8": { "width": 699, "height": 393 },
-				"fly money/fly_9": { "width": 699, "height": 393 },
-				"fly money/fly_10": { "width": 699, "height": 393 },
-				"fly money/fly_11": { "width": 699, "height": 393 },
-				"fly money/fly_12": { "width": 699, "height": 393 },
-				"fly money/fly_13": { "width": 699, "height": 393 },
-				"fly money/fly_14": { "width": 699, "height": 393 },
-				"fly money/fly_15": { "width": 699, "height": 393 },
-				"fly money/fly_16": { "width": 699, "height": 393 },
-				"fly money/fly_17": { "width": 699, "height": 393 },
-				"fly money/fly_18": { "width": 699, "height": 393 },
-				"fly money/fly_19": { "width": 699, "height": 393 },
-				"fly money/fly_20": { "width": 699, "height": 393 },
-				"fly money/fly_21": { "width": 699, "height": 393 },
-				"fly money/fly_22": { "width": 699, "height": 393 },
-				"fly money/fly_23": { "width": 699, "height": 393 },
-				"fly money/fly_24": { "width": 699, "height": 393 },
-				"fly money/fly_25": { "width": 699, "height": 393 },
-				"fly money/fly_26": { "width": 699, "height": 393 },
-				"fly money/fly_27": { "width": 699, "height": 393 },
-				"fly money/fly_28": { "width": 699, "height": 393 },
-				"fly money/fly_29": { "width": 699, "height": 393 },
-				"fly money/fly_30": { "width": 699, "height": 393 }
-			}
-		}
-	}
-],
-"animations": {
-	"animation": {
-		"slots": {
-			"BG trans1": {
-				"color": [
-					{ "color": "3b8d3bff", "curve": "stepped" },
-					{ "time": 0.5, "color": "3b8d3bff" },
-					{ "time": 0.7, "color": "ffffffff" }
-				],
-				"attachment": [
-					{ "name": "BG trans1" },
-					{ "time": 0.7, "name": null }
-				]
-			},
-			"BG trans2": {
-				"attachment": [
-					{ "name": null },
-					{ "time": 0.7, "name": "BG trans2" }
-				]
-			},
-			"fly money/fly_0": {
-				"attachment": [
-					{ "name": "fly money/fly_0" },
-					{ "time": 0.0333, "name": "fly money/fly_1" },
-					{ "time": 0.0667, "name": "fly money/fly_2" },
-					{ "time": 0.1, "name": "fly money/fly_3" },
-					{ "time": 0.1333, "name": "fly money/fly_4" },
-					{ "time": 0.1667, "name": "fly money/fly_5" },
-					{ "time": 0.2, "name": "fly money/fly_6" },
-					{ "time": 0.2333, "name": "fly money/fly_7" },
-					{ "time": 0.2667, "name": "fly money/fly_8" },
-					{ "time": 0.3, "name": "fly money/fly_9" },
-					{ "time": 0.3333, "name": "fly money/fly_10" },
-					{ "time": 0.3667, "name": "fly money/fly_11" },
-					{ "time": 0.4, "name": "fly money/fly_12" },
-					{ "time": 0.4333, "name": "fly money/fly_13" },
-					{ "time": 0.4667, "name": "fly money/fly_14" },
-					{ "time": 0.5, "name": "fly money/fly_15" },
-					{ "time": 0.5333, "name": "fly money/fly_16" },
-					{ "time": 0.5667, "name": "fly money/fly_17" },
-					{ "time": 0.6, "name": "fly money/fly_18" },
-					{ "time": 0.6333, "name": "fly money/fly_19" },
-					{ "time": 0.6667, "name": "fly money/fly_20" },
-					{ "time": 0.7, "name": "fly money/fly_21" },
-					{ "time": 0.7333, "name": "fly money/fly_22" },
-					{ "time": 0.7667, "name": "fly money/fly_23" },
-					{ "time": 0.8, "name": "fly money/fly_24" },
-					{ "time": 0.8333, "name": "fly money/fly_25" },
-					{ "time": 0.8667, "name": "fly money/fly_26" },
-					{ "time": 0.9, "name": "fly money/fly_27" },
-					{ "time": 0.9333, "name": "fly money/fly_28" },
-					{ "time": 0.9667, "name": "fly money/fly_29" },
-					{ "time": 1, "name": "fly money/fly_30" },
-					{ "time": 1.0333, "name": null }
-				]
-			}
+	"skeleton": {
+		"hash": "8JpfzIJzibcx4EXVsdiZosWSS20",
+		"spine": "3.8.99",
+		"x": -320,
+		"y": -317,
+		"width": 636,
+		"height": 642,
+		"images": "./images/",
+		"audio": "F:/WorkFolder/9 slotgame lucky luke/animation/transition"
+	},
+	"bones": [
+		{
+			"name": "root"
 		},
-		"bones": {
-			"scale": {
-				"scale": [
-					{ "x": 0.5, "y": 0.5, "curve": 0.558, "c2": 0.69, "c3": 0.75 },
-					{ "time": 0.9333, "x": 1.05, "y": 1.05, "curve": 0.25, "c3": 0.75 },
-					{ "time": 1.1667 }
-				]
+		{
+			"name": "frame comic",
+			"parent": "root"
+		},
+		{
+			"name": "fly",
+			"parent": "root",
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "scale",
+			"parent": "frame comic"
+		}
+	],
+	"slots": [
+		{
+			"name": "BG trans2",
+			"bone": "scale",
+			"attachment": "BG trans2"
+		},
+		{
+			"name": "BG trans1",
+			"bone": "scale"
+		},
+		{
+			"name": "fly money/fly_0",
+			"bone": "fly"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"BG trans1": {
+					"BG trans1": {
+						"x": -2,
+						"y": 4,
+						"width": 636,
+						"height": 642
+					}
+				},
+				"BG trans2": {
+					"BG trans2": {
+						"x": -2,
+						"y": 4,
+						"width": 636,
+						"height": 642
+					}
+				},
+				"fly money/fly_0": {
+					"fly money/fly_0": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_1": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_2": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_3": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_4": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_5": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_6": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_7": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_8": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_9": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_10": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_11": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_12": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_13": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_14": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_15": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_16": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_17": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_18": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_19": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_20": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_21": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_22": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_23": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_24": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_25": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_26": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_27": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_28": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_29": {
+						"width": 699,
+						"height": 393
+					},
+					"fly money/fly_30": {
+						"width": 699,
+						"height": 393
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"transition": {
+			"slots": {
+				"BG trans1": {
+					"color": [
+						{
+							"color": "3b8d3bff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"color": "3b8d3bff"
+						},
+						{
+							"time": 0.7,
+							"color": "ffffffff"
+						}
+					],
+					"attachment": [
+						{
+							"name": "BG trans1"
+						},
+						{
+							"time": 0.7,
+							"name": null
+						}
+					]
+				},
+				"BG trans2": {
+					"attachment": [
+						{
+							"name": null
+						},
+						{
+							"time": 0.7,
+							"name": "BG trans2"
+						}
+					]
+				},
+				"fly money/fly_0": {
+					"attachment": [
+						{
+							"name": "fly money/fly_0"
+						},
+						{
+							"time": 0.0333,
+							"name": "fly money/fly_1"
+						},
+						{
+							"time": 0.0667,
+							"name": "fly money/fly_2"
+						},
+						{
+							"time": 0.1,
+							"name": "fly money/fly_3"
+						},
+						{
+							"time": 0.1333,
+							"name": "fly money/fly_4"
+						},
+						{
+							"time": 0.1667,
+							"name": "fly money/fly_5"
+						},
+						{
+							"time": 0.2,
+							"name": "fly money/fly_6"
+						},
+						{
+							"time": 0.2333,
+							"name": "fly money/fly_7"
+						},
+						{
+							"time": 0.2667,
+							"name": "fly money/fly_8"
+						},
+						{
+							"time": 0.3,
+							"name": "fly money/fly_9"
+						},
+						{
+							"time": 0.3333,
+							"name": "fly money/fly_10"
+						},
+						{
+							"time": 0.3667,
+							"name": "fly money/fly_11"
+						},
+						{
+							"time": 0.4,
+							"name": "fly money/fly_12"
+						},
+						{
+							"time": 0.4333,
+							"name": "fly money/fly_13"
+						},
+						{
+							"time": 0.4667,
+							"name": "fly money/fly_14"
+						},
+						{
+							"time": 0.5,
+							"name": "fly money/fly_15"
+						},
+						{
+							"time": 0.5333,
+							"name": "fly money/fly_16"
+						},
+						{
+							"time": 0.5667,
+							"name": "fly money/fly_17"
+						},
+						{
+							"time": 0.6,
+							"name": "fly money/fly_18"
+						},
+						{
+							"time": 0.6333,
+							"name": "fly money/fly_19"
+						},
+						{
+							"time": 0.6667,
+							"name": "fly money/fly_20"
+						},
+						{
+							"time": 0.7,
+							"name": "fly money/fly_21"
+						},
+						{
+							"time": 0.7333,
+							"name": "fly money/fly_22"
+						},
+						{
+							"time": 0.7667,
+							"name": "fly money/fly_23"
+						},
+						{
+							"time": 0.8,
+							"name": "fly money/fly_24"
+						},
+						{
+							"time": 0.8333,
+							"name": "fly money/fly_25"
+						},
+						{
+							"time": 0.8667,
+							"name": "fly money/fly_26"
+						},
+						{
+							"time": 0.9,
+							"name": "fly money/fly_27"
+						},
+						{
+							"time": 0.9333,
+							"name": "fly money/fly_28"
+						},
+						{
+							"time": 0.9667,
+							"name": "fly money/fly_29"
+						},
+						{
+							"time": 1,
+							"name": "fly money/fly_30"
+						},
+						{
+							"time": 1.0333,
+							"name": null
+						}
+					]
+				}
 			},
-			"frame comic": {
-				"rotate": [
-					{ "angle": -60, "curve": "stepped" },
-					{ "time": 0.1667, "angle": -60, "curve": 0.39, "c2": 0.49, "c3": 0.75 },
-					{ "time": 1.0667 }
-				],
-				"scale": [
-					{ "x": 0, "y": 0, "curve": "stepped" },
-					{ "time": 0.1667, "x": 0, "y": 0 },
-					{ "time": 0.6667, "x": 0.2, "y": 0.357 },
-					{ "time": 0.7, "x": 0.2 },
-					{ "time": 1 }
-				]
+			"bones": {
+				"scale": {
+					"scale": [
+						{
+							"x": 0.5,
+							"y": 0.5,
+							"curve": 0.558,
+							"c2": 0.69,
+							"c3": 0.75
+						},
+						{
+							"time": 0.9333,
+							"x": 1.05,
+							"y": 1.05,
+							"curve": 0.25,
+							"c3": 0.75
+						},
+						{
+							"time": 1.1667
+						}
+					]
+				},
+				"frame comic": {
+					"rotate": [
+						{
+							"angle": -60,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1667,
+							"angle": -60,
+							"curve": 0.39,
+							"c2": 0.49,
+							"c3": 0.75
+						},
+						{
+							"time": 1.0667
+						}
+					],
+					"scale": [
+						{
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6667,
+							"x": 0.2,
+							"y": 0.357
+						},
+						{
+							"time": 0.7,
+							"x": 0.2
+						},
+						{
+							"time": 1
+						}
+					]
+				}
 			}
 		}
 	}
-}
 }
