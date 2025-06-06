@@ -1,18 +1,18 @@
 {
     "lobbyNames": {
-        "en": "Poseidon's Realm",
-        "id": "Kerajaan Poseidon",
-        "th": "อาณาจักร\nแห่งโพไซดอน",
-        "vi": "Kho Báu Poseidon",
-        "zh_cn": "波塞冬领域",
-        "zh_tw": "波塞冬領域"
+        "en": "Wild West\nMost Wanted",
+        "id": "Wild West\nMost Wanted",
+        "th": "ไวลด์ เวสต์\nมอสท์ ว้อนท์เต็ด",
+        "vi": "Tay Súng\nCừ Khôi",
+        "zh_cn": "狂野西部牛仔",
+        "zh_tw": "狂野西部牛仔"
     },
     "gameNames": {
-        "en": "Poseidon's Realm",
-        "id": "Kerajaan Poseidon",
-        "th": "อาณาจักรแห่งโพไซดอน",
-        "vi": "Kho Báu Poseidon",
-        "zh_cn": "波塞冬领域",
-        "zh_tw": "波塞冬領域"
+        "en": "Wild West Most Wanted",
+        "id": "Wild West Most Wanted",
+        "th": "ไวลด์ เวสต์ มอสท์ ว้อนท์เต็ด",
+        "vi": "Tay Súng Cừ Khôi",
+        "zh_cn": "狂野西部牛仔",
+        "zh_tw": "狂野西部牛仔"
     }
 }
