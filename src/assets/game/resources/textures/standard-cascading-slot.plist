@@ -244,21 +244,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>spin-stop.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{72,72}</string>
-                <key>spriteSourceSize</key>
-                <string>{72,72}</string>
-                <key>textureRect</key>
-                <string>{{219,1108},{72,72}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>symbol-0.png</key>
             <dict>
                 <key>aliases</key>
@@ -558,7 +543,7 @@
             <key>size</key>
             <string>{512,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6471b1fffd02c7d9d9313ed0a6198aff:245915c5fc2734a1656f64381747a22b:40ee7df176381dd4082d4248ef6d2be1$</string>
+            <string>$TexturePacker:SmartUpdate:64cf4925d87ffdf5d23003887a0efb21:23efb34a0813ba79bc57e8711485ea32:40ee7df176381dd4082d4248ef6d2be1$</string>
             <key>textureFileName</key>
             <string>standard-cascading-slot.webp</string>
         </dict>

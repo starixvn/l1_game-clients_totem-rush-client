@@ -789,52 +789,6 @@
       ],
       "subMetas": {}
     },
-    "0f654": {
-      "importer": "sprite-frame",
-      "uuid": "cab245b3-fac5-4aa6-bb02-f370c663806f@0f654",
-      "displayName": "",
-      "id": "0f654",
-      "name": "spin-stop",
-      "userData": {
-        "trimThreshold": 1,
-        "rotated": false,
-        "offsetX": 0,
-        "offsetY": 0,
-        "trimX": 219,
-        "trimY": 1108,
-        "width": 72,
-        "height": 72,
-        "rawWidth": 72,
-        "rawHeight": 72,
-        "borderTop": 0,
-        "borderBottom": 0,
-        "borderLeft": 0,
-        "borderRight": 0,
-        "packable": true,
-        "pixelsToUnit": 100,
-        "pivotX": 0.5,
-        "pivotY": 0.5,
-        "meshType": 0,
-        "vertices": {
-          "rawPosition": [],
-          "indexes": [],
-          "uv": [],
-          "nuv": [],
-          "minPos": [],
-          "maxPos": []
-        },
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "e5ed78ff-06d4-4568-af23-5572030ee5b7@6c48a",
-        "atlasUuid": "cab245b3-fac5-4aa6-bb02-f370c663806f",
-        "trimType": "auto"
-      },
-      "ver": "1.0.12",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "c803c": {
       "importer": "sprite-frame",
       "uuid": "cab245b3-fac5-4aa6-bb02-f370c663806f@c803c",
