@@ -25,7 +25,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: GAME_NAME.toLowerCase(),
         route: GAME_NAME.toLowerCase(),
     },
-    storagePrefixKey: "poseidons_realm",
+    storagePrefixKey: "wild_west_most_wanted",
     tolgeeUrl: "",
 };
 
