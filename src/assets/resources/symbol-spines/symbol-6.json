@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "n3wW6CRRIp8+tmkQjo38yGnMiWM",
+	"hash": "M3aCpnKHtJUiNxw2DSbeHaBFqqg",
 	"spine": "3.8.99",
-	"x": -60,
-	"y": -57,
-	"width": 127,
-	"height": 115,
+	"x": -56.05,
+	"y": -54.15,
+	"width": 117.08,
+	"height": 109.76,
 	"images": "./images/",
 	"audio": "F:/WorkFolder/9 slotgame lucky luke/animation/symbol"
 },
@@ -20,8 +20,16 @@
 	{ "name": "frame", "parent": "s6" },
 	{ "name": "s6 head", "parent": "s6", "x": 11.82, "y": -12.4, "scaleX": 0.95, "scaleY": 0.95 },
 	{ "name": "s6 gun", "parent": "s6", "x": -22.04, "y": -35.39 },
-	{ "name": "s6 effect", "parent": "s6", "rotation": -3.92, "x": -25.3, "y": 29.49 },
-	{ "name": "s6 effect2", "parent": "s6", "rotation": -3.92, "x": -25.3, "y": 29.49 }
+	{ "name": "s6 effect", "parent": "s6", "rotation": 21.84, "x": -21.99, "y": 27.68 },
+	{
+		"name": "s6 effect2",
+		"parent": "s6",
+		"rotation": 60.93,
+		"x": -25.75,
+		"y": 22.71,
+		"scaleX": 0.6885,
+		"scaleY": 0.6885
+	}
 ],
 "slots": [
 	{ "name": "s6 frame", "bone": "frame", "attachment": "s6 frame" },
@@ -289,13 +297,6 @@
 				]
 			},
 			"s6 effect": {
-				"rotate": [
-					{ "angle": 29.07 },
-					{ "time": 0.0333, "angle": 28.96 }
-				],
-				"translate": [
-					{ "x": 5.46, "y": 1.4 }
-				],
 				"scale": [
 					{},
 					{ "time": 0.2, "x": 0.596, "y": 0.596 },
@@ -318,13 +319,6 @@
 				]
 			},
 			"s6 effect2": {
-				"rotate": [
-					{ "angle": 62.09 },
-					{ "time": 0.0333, "angle": 61.99 }
-				],
-				"translate": [
-					{ "x": -3.22, "y": -3.08 }
-				],
 				"scale": [
 					{ "x": 0.664, "y": 0.664 },
 					{ "time": 0.1667 },
@@ -348,7 +342,7 @@
 			"s6 head": {
 				"rotate": [
 					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.7333, "angle": 3.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -3.99, "curve": 0.25, "c3": 0.75 },
 					{ "time": 1.5 }
 				]
 			},
@@ -361,12 +355,6 @@
 				]
 			},
 			"s6 effect": {
-				"rotate": [
-					{ "angle": 29.07 }
-				],
-				"translate": [
-					{ "x": 5.46, "y": 1.4 }
-				],
 				"scale": [
 					{},
 					{ "time": 0.3667, "x": 0.596, "y": 0.596 },
@@ -376,12 +364,6 @@
 				]
 			},
 			"s6 effect2": {
-				"rotate": [
-					{ "angle": 62.09 }
-				],
-				"translate": [
-					{ "x": -3.22, "y": -3.08 }
-				],
 				"scale": [
 					{ "x": 0.664, "y": 0.664 },
 					{ "time": 0.3333 },
