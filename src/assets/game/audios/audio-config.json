@@ -9,6 +9,11 @@
         "path": "big-win-increment-ended",
         "isLazyLoad": true
     },
+    "winning-level-up": {
+        "bundle": "resources",
+        "path": "winning-level-up",
+        "isLazyLoad": true
+    },
     "click": {
         "bundle": "resources",
         "path": "click",
