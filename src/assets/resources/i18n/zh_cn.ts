@@ -262,7 +262,7 @@ export const languages = {
         "reach_max_win": "您达到了最大胜利",
         "real_mode": "真钱模式",
         "round_settle_msg": "祝你好运！",
-        "scatter_odds_preview": "出现4个或更多派彩符号即可触发免费旋转。",
+        "scatter_odds_preview": "%{numOfScatters}+ Scatters触发 %{numOfSpins} FREE SPINS。",
         "show_msg_when_spin_desktop": "按住空格键或点击旋转",
         "show_msg_when_spin_phone": "点击或按住旋转开始",
         "start": "开始",
@@ -282,7 +282,10 @@ export const languages = {
         "win_tumble_msg": "恭喜！",
         "you_win_free_spin": "您赢得"
     },
-    "WildWestMostWanted": {}
+    "WildWestMostWanted": {
+        "game_icon_name": "狂野西部牛仔",
+        "game_name": "狂野西部牛仔"
+    }
 };
 
 if (!win.languages) {
