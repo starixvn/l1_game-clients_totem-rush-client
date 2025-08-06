@@ -232,6 +232,7 @@ export const languages = {
         "bet_multiplier_x": "เดิมพัน 20x",
         "big_win": "รางวัลใหญ่",
         "coin_value": "มูลค่าเหรียญ",
+        "coin_value_shorten": "มูลค่าเหรียญ",
         "Common-example": "ตัวอย่าง:",
         "congratulations": "ยินดีด้วยค่ะ",
         "disable_turbo_mode": "โหมดเทอร์โบ \"ปิด\"",
@@ -282,9 +283,9 @@ export const languages = {
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_win_free_spin": "คุณชนะ"
     },
-    "WildWestMostWanted": {
-        "game_icon_name": "ไวลด์ เวสต์\nมอสท์ ว้อนท์เต็ด",
-        "game_name": "ไวลด์ เวสต์ มอสท์ ว้อนท์เต็ด"
+    "TotemRush": {
+        "game_icon_name": "Totem Rush",
+        "game_name": "Totem Rush"
     }
 };
 

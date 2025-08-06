@@ -7,7 +7,7 @@ export const languages = {
         "bet_choice": "ベット選択",
         "betChoice2": "ベット選択",
         "bet_choice_away": "アウェイ",
-        "bet_choice_draw": "ドロー",
+        "bet_choice_draw": "引き分け",
         "bet_choice_even": "偶数",
         "bet_choice_home": "ホーム",
         "bet_choice_odd": "奇数",
@@ -50,7 +50,7 @@ export const languages = {
         "hot": "ホット",
         "invalid_bet": "無効なベットです",
         "invalid_deal_hands": "ハンド数が無効です",
-        "invalid_free_spin": "無効なフリースピン",
+        "invalid_free_spin": "無効なFree Spin",
         "invalid_hand_id": "無効なハンドIDです",
         "invalid_position": "無効なポジションです",
         "invalid_stake_level": "無効なステークレベルです",
@@ -235,14 +235,15 @@ export const languages = {
         "bet_multiplier_x": "ベットマルチプライヤー 20倍",
         "big_win": "Big Win",
         "coin_value": "コインバリュー",
+        "coin_value_shorten": "コインバリュー",
         "Common-example": "例：",
         "congratulations": "おめでとうございます",
         "disable_turbo_mode": "ターボモードをオフにする",
         "enable_turbo_mode": "ターボモードをオンにする",
         "example": "例:",
-        "extra_free_spin": "追加フリースピン",
-        "free_spin": "フリースピン",
-        "free_spin_left_amount": "フリースピン残り %{amount}",
+        "extra_free_spin": "追加Free Spin",
+        "free_spin": "Free Spins",
+        "free_spin_left_amount": "Free Spins残り %{amount}",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
         "from_settle_to_spin1": "スピンして勝とう！",
@@ -285,9 +286,9 @@ export const languages = {
         "win_tumble_msg": "おめでとうございます！",
         "you_win_free_spin": "当たり"
     },
-    "WildWestMostWanted": {
-        "game_icon_name": "Wild West\nMost Wanted",
-        "game_name": "Wild West Most Wanted"
+    "TotemRush": {
+        "game_icon_name": "トーテム \nラッシュ",
+        "game_name": "トーテム ラッシュ"
     }
 };
 

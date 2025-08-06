@@ -1,7 +1,7 @@
 export const settings = {
-    id: 129,
-    name: "WildWestMostWanted",
-    tolgeeNamespaces: ["WildWestMostWanted", "cascadingslot"],
+    id: 146,
+    name: "TotemRush",
+    tolgeeNamespaces: ["TotemRush", "cascadingslot"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,
@@ -14,7 +14,7 @@ export const settings = {
     },
     isMiniGame: false,
     numberOfRoundHistory: 11,
-    observerNamespace: "WildWestMostWanted",
+    observerNamespace: "TotemRush",
     validateBalanceWhenBet: true,
 };
 

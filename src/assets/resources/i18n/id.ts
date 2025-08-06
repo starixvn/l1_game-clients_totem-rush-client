@@ -232,6 +232,7 @@ export const languages = {
         "bet_multiplier_x": "Pengali Taruhan 20x",
         "big_win": "Kemenangan Besar",
         "coin_value": "Nilai Koin",
+        "coin_value_shorten": "Nilai Koin",
         "Common-example": "Contoh:",
         "congratulations": "Selamat",
         "disable_turbo_mode": "Mode Turbo \"MATI\"",
@@ -282,9 +283,9 @@ export const languages = {
         "win_tumble_msg": "SELAMAT!",
         "you_win_free_spin": "Anda menang"
     },
-    "WildWestMostWanted": {
-        "game_icon_name": "Wild West\nMost Wanted",
-        "game_name": "Wild West Most Wanted"
+    "TotemRush": {
+        "game_icon_name": "Totem Rush",
+        "game_name": "Totem Rush"
     }
 };
 

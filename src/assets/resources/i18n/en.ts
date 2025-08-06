@@ -235,6 +235,7 @@ export const languages = {
         "bet_multiplier_x": "Bet Multiplier 20x",
         "big_win": "Big Win",
         "coin_value": "Coin Value",
+        "coin_value_shorten": "Coin Value",
         "Common-example": "Example:",
         "congratulations": "Congratulations",
         "disable_turbo_mode": "Turbo Mode \"OFF\"",
@@ -285,9 +286,9 @@ export const languages = {
         "win_tumble_msg": "CONGRATULATION!",
         "you_win_free_spin": "You win"
     },
-    "WildWestMostWanted": {
-        "game_icon_name": "Wild West\nMost Wanted",
-        "game_name": "Wild West Most Wanted"
+    "TotemRush": {
+        "game_icon_name": "Totem Rush",
+        "game_name": "Totem Rush"
     }
 };
 

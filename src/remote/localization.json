@@ -1,22 +1,22 @@
 {
     "lobbyNames": {
-        "en": "Wild West\nMost Wanted",
-        "id": "Wild West\nMost Wanted",
-        "th": "ไวลด์ เวสต์\nมอสท์ ว้อนท์เต็ด",
-        "vi": "Tay Súng\nCừ Khôi",
-        "zh_cn": "狂野西部牛仔",
-        "zh_tw": "狂野西部牛仔",
-        "ja": "Wild West\nMost Wanted",
-        "es": "Wild West\nMost Wanted"
+        "en": "Totem Rush",
+        "id": "Totem Rush",
+        "th": "Totem Rush",
+        "vi": "Tổ Vật\nMay Mắn",
+        "zh_cn": "图腾冲刺",
+        "zh_tw": "图腾冲刺",
+        "ja": "トーテム \nラッシュ",
+        "es": "Totem Rush"
     },
     "gameNames": {
-        "en": "Wild West Most Wanted",
-        "id": "Wild West Most Wanted",
-        "th": "ไวลด์ เวสต์ มอสท์ ว้อนท์เต็ด",
-        "vi": "Tay Súng Cừ Khôi",
-        "zh_cn": "狂野西部牛仔",
-        "zh_tw": "狂野西部牛仔",
-        "ja": "Wild West Most Wanted",
-        "es": "Wild West Most Wanted"
+        "en": "Totem Rush",
+        "id": "Totem Rush",
+        "th": "Totem Rush",
+        "vi": "Tổ Vật May Mắn",
+        "zh_cn": "图腾冲刺",
+        "zh_tw": "图腾冲刺",
+        "ja": "トーテム ラッシュ",
+        "es": "Totem Rush"
     }
 }

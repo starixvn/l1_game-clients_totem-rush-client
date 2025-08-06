@@ -229,9 +229,10 @@ export const languages = {
         "auto_spin_left": "Lượt Quay Tự Động Còn Lại",
         "bet_level": "Mức Cược",
         "bet_level_shorten": "Mức Cược",
-        "bet_multiplier_x": "Hệ Số Cược 20X",
+        "bet_multiplier_x": "Hệ Số Cược 20x",
         "big_win": "Thắng Lớn",
         "coin_value": "Giá trị xu",
+        "coin_value_shorten": "Giá trị xu",
         "Common-example": "Ví Dụ:",
         "congratulations": "Chúc Mừng",
         "disable_turbo_mode": "Tắt chế độ Siêu Tốc.",
@@ -282,9 +283,9 @@ export const languages = {
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_win_free_spin": "Bạn đã thắng"
     },
-    "WildWestMostWanted": {
-        "game_icon_name": "Tay Súng\nCừ Khôi",
-        "game_name": "Tay Súng Cừ Khôi"
+    "TotemRush": {
+        "game_icon_name": "Tổ Vật\nMay Mắn",
+        "game_name": "Tổ Vật May Mắn"
     }
 };
 

@@ -1,0 +1,7 @@
+{
+    "mainNamespace": "DragonTigerFight",
+    "additionalNamespaces": [
+        "Common",
+        "cascadingslot"
+    ]
+}

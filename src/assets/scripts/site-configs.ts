@@ -25,7 +25,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: GAME_NAME.toLowerCase(),
         route: GAME_NAME.toLowerCase(),
     },
-    storagePrefixKey: "wild_west_most_wanted",
+    storagePrefixKey: "totem_rush",
     tolgeeUrl: "",
 };
 

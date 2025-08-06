@@ -1,6 +1,6 @@
-export const GAME_NAME = "WildWestMostWanted";
+export const GAME_NAME = "TotemRush";
 export const settings = {
-    id: 129,
+    id: 146,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
     tolgeeNamespaces: [GAME_NAME, "cascadingslot"],
