@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "rC3MyLmbtZKUwmUZvknqImlJLeM",
+	"hash": "/qh+9r68IE2rGYoZbQyWI9rRcoQ",
 	"spine": "3.8.99",
-	"x": -47.74,
-	"y": -51.95,
-	"width": 95.47,
-	"height": 103.9,
+	"x": -50.79,
+	"y": -56.4,
+	"width": 101.57,
+	"height": 112.81,
 	"images": "./ime/",
 	"audio": "E:/PG/61/assets/resources/unknown/spine/c7c2ca63-2db6-4743-9a8f-2dce25e43d81"
 },
@@ -13,7 +13,7 @@
 	{ "name": "root" },
 	{ "name": "all", "parent": "root" },
 	{ "name": "head", "parent": "all", "length": 68.71, "rotation": 88.46 },
-	{ "name": "outer1", "parent": "all", "scaleX": 0.65, "scaleY": 0.65 },
+	{ "name": "outer1", "parent": "all", "scaleX": 0.6915, "scaleY": 0.7057 },
 	{ "name": "fx_sparkleseq", "parent": "root" },
 	{ "name": "K", "parent": "head", "length": 101.88, "rotation": -178.72 },
 	{ "name": "leaf", "parent": "root" },
@@ -188,16 +188,7 @@
 			}
 		}
 	},
-	"idle": {
-		"slots": {
-			"outer-K": {
-				"attachment": [
-					{ "name": null }
-				]
-			}
-		}
-	},
-	"win": {
+	"highlight": {
 		"slots": {
 			"leaf/leaf00": {
 				"color": [
@@ -309,6 +300,15 @@
 			"leaf": {
 				"scale": [
 					{ "x": 1.175, "y": 1.175 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"outer-K": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		}

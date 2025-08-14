@@ -1,13 +1,355 @@
 
 mascot.webp
-size: 286,447
+size: 2025,1957
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-character
+test/Comp 1/nv_00026
+  rotate: true
+  xy: 2, 1703
+  size: 252, 419
+  orig: 500, 700
+  offset: 102, 138
+  index: -1
+test/Comp 1/nv_00027
+  rotate: true
+  xy: 423, 1703
+  size: 252, 420
+  orig: 500, 700
+  offset: 104, 138
+  index: -1
+test/Comp 1/nv_00029
+  rotate: true
+  xy: 936, 1152
+  size: 275, 623
+  orig: 500, 700
+  offset: 108, 66
+  index: -1
+test/Comp 1/nv_00030
+  rotate: true
+  xy: 845, 1696
+  size: 259, 623
+  orig: 500, 700
+  offset: 111, 11
+  index: -1
+test/Comp 1/nv_00031
+  rotate: true
+  xy: 845, 1696
+  size: 259, 623
+  orig: 500, 700
+  offset: 111, 11
+  index: -1
+test/Comp 1/nv_00033
+  rotate: true
+  xy: 503, 1158
+  size: 271, 431
+  orig: 500, 700
+  offset: 116, 131
+  index: -1
+test/Comp 1/nv_00034
+  rotate: true
+  xy: 1561, 987
+  size: 278, 430
+  orig: 500, 700
+  offset: 118, 131
+  index: -1
+test/Comp 1/nv_00035
+  rotate: true
+  xy: 501, 596
+  size: 282, 430
+  orig: 500, 700
+  offset: 120, 131
+  index: -1
+test/Comp 1/nv_00036
+  rotate: true
+  xy: 501, 596
+  size: 282, 430
+  orig: 500, 700
+  offset: 120, 131
+  index: -1
+test/Comp 1/nv_00037
+  rotate: true
+  xy: 1367, 417
+  size: 285, 429
+  orig: 500, 700
+  offset: 121, 131
+  index: -1
+test/Comp 1/nv_00038
+  rotate: true
+  xy: 889, 298
+  size: 289, 428
+  orig: 500, 700
+  offset: 121, 131
+  index: -1
+test/Comp 1/nv_00042
+  rotate: true
+  xy: 430, 2
+  size: 294, 475
+  orig: 500, 700
+  offset: 121, 131
+  index: -1
+test/Comp 1/nv_00045
+  rotate: true
+  xy: 2, 13
+  size: 295, 426
+  orig: 500, 700
+  offset: 119, 131
+  index: -1
+test/Comp 2/event_00090
+  rotate: true
+  xy: 1499, 704
+  size: 281, 524
+  orig: 500, 700
+  offset: 126, 7
+  index: -1
+test/Comp 2/event_00091
+  rotate: true
+  xy: 1499, 704
+  size: 281, 524
+  orig: 500, 700
+  offset: 126, 7
+  index: -1
+test/Comp 2/event_00093
   rotate: false
-  xy: 0, 0
-  size: 286, 447
-  orig: 308, 448
-  offset: 1, 1
+  xy: 1666, 1267
+  size: 280, 425
+  orig: 500, 700
+  offset: 129, 106
+  index: -1
+test/Comp 2/event_00094
+  rotate: true
+  xy: 2, 887
+  size: 280, 428
+  orig: 500, 700
+  offset: 128, 106
+  index: -1
+test/Comp 2/event_00095
+  rotate: true
+  xy: 933, 589
+  size: 283, 432
+  orig: 500, 700
+  offset: 127, 106
+  index: -1
+test/Comp 2/event_00096
+  rotate: true
+  xy: 933, 589
+  size: 283, 432
+  orig: 500, 700
+  offset: 127, 106
+  index: -1
+test/Comp 2/event_00097
+  rotate: true
+  xy: 2, 310
+  size: 285, 438
+  orig: 500, 700
+  offset: 125, 106
+  index: -1
+test/Comp 2/event_00098
+  rotate: true
+  xy: 442, 308
+  size: 286, 445
+  orig: 500, 700
+  offset: 123, 106
+  index: -1
+test/Comp 2/event_00105
+  rotate: true
+  xy: 1319, 128
+  size: 287, 493
+  orig: 500, 700
+  offset: 117, 121
+  index: -1
+test/Comp 2/event_00106
+  rotate: true
+  xy: 1319, 128
+  size: 287, 493
+  orig: 500, 700
+  offset: 117, 121
+  index: -1
+test/Comp 2/event_00107
+  rotate: true
+  xy: 2, 597
+  size: 281, 497
+  orig: 500, 700
+  offset: 121, 127
+  index: -1
+test/Comp 2/event_00108
+  rotate: true
+  xy: 432, 880
+  size: 276, 502
+  orig: 500, 700
+  offset: 124, 133
+  index: -1
+test/Comp 2/event_00109
+  rotate: true
+  xy: 2, 1169
+  size: 270, 499
+  orig: 500, 700
+  offset: 130, 147
+  index: -1
+test/Comp 2/event_00110
+  rotate: true
+  xy: 1470, 1694
+  size: 261, 503
+  orig: 500, 700
+  offset: 131, 153
+  index: -1
+test/Comp 2/event_00111
+  rotate: true
+  xy: 1470, 1694
+  size: 261, 503
+  orig: 500, 700
+  offset: 131, 153
+  index: -1
+test/Comp 2/event_00113
+  rotate: true
+  xy: 936, 874
+  size: 276, 561
+  orig: 500, 700
+  offset: 124, 108
+  index: -1
+test/Comp 2/event_00114
+  rotate: true
+  xy: 2, 1441
+  size: 260, 624
+  orig: 500, 700
+  offset: 121, 54
+  index: -1
+test/Comp 2/event_00117
+  rotate: true
+  xy: 628, 1431
+  size: 263, 516
+  orig: 500, 700
+  offset: 114, 171
+  index: -1
+test/Comp 2/event_00118
+  rotate: true
+  xy: 1146, 1429
+  size: 263, 518
+  orig: 500, 700
+  offset: 113, 174
+  index: -1
+
+mascot2.webp
+size: 1955,1637
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+test/Comp 1/nv_00028
+  rotate: true
+  xy: 1116, 529
+  size: 391, 466
+  orig: 500, 700
+  offset: 106, 122
+  index: -1
+test/Comp 1/nv_00032
+  rotate: false
+  xy: 982, 4
+  size: 371, 467
+  orig: 500, 700
+  offset: 6, 112
+  index: -1
+test/Comp 1/nv_00039
+  rotate: false
+  xy: 1584, 453
+  size: 366, 467
+  orig: 500, 700
+  offset: 121, 92
+  index: -1
+test/Comp 1/nv_00040
+  rotate: false
+  xy: 711, 1013
+  size: 338, 622
+  orig: 500, 700
+  offset: 121, 38
+  index: -1
+test/Comp 1/nv_00041
+  rotate: false
+  xy: 711, 1013
+  size: 338, 622
+  orig: 500, 700
+  offset: 121, 38
+  index: -1
+test/Comp 1/nv_00043
+  rotate: true
+  xy: 1355, 117
+  size: 334, 475
+  orig: 500, 700
+  offset: 82, 82
+  index: -1
+test/Comp 1/nv_00044
+  rotate: false
+  xy: 1051, 1116
+  size: 390, 519
+  orig: 500, 700
+  offset: 25, 131
+  index: -1
+test/Comp 2/event_00092
+  rotate: true
+  xy: 1443, 922
+  size: 394, 476
+  orig: 500, 700
+  offset: 13, 106
+  index: -1
+test/Comp 2/event_00099
+  rotate: true
+  xy: 505, 5
+  size: 376, 475
+  orig: 500, 700
+  offset: 121, 86
+  index: -1
+test/Comp 2/event_00100
+  rotate: false
+  xy: 361, 1010
+  size: 348, 625
+  orig: 500, 700
+  offset: 118, 36
+  index: -1
+test/Comp 2/event_00101
+  rotate: false
+  xy: 363, 383
+  size: 348, 625
+  orig: 500, 700
+  offset: 118, 36
+  index: -1
+test/Comp 2/event_00102
+  rotate: true
+  xy: 2, 2
+  size: 294, 501
+  orig: 500, 700
+  offset: 117, 105
+  index: -1
+test/Comp 2/event_00103
+  rotate: true
+  xy: 1443, 1318
+  size: 317, 510
+  orig: 500, 700
+  offset: 89, 81
+  index: -1
+test/Comp 2/event_00104
+  rotate: false
+  xy: 713, 473
+  size: 401, 538
+  orig: 500, 700
+  offset: 3, 113
+  index: -1
+test/Comp 2/event_00112
+  rotate: false
+  xy: 2, 298
+  size: 359, 654
+  orig: 500, 700
+  offset: 128, 8
+  index: -1
+test/Comp 2/event_00115
+  rotate: false
+  xy: 2, 954
+  size: 357, 681
+  orig: 500, 700
+  offset: 21, 0
+  index: -1
+test/Comp 2/event_00116
+  rotate: false
+  xy: 2, 954
+  size: 357, 681
+  orig: 500, 700
+  offset: 21, 0
   index: -1

@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "CaK5/Yru1TkY1QVvNxgwY9fiHCM",
+	"hash": "BuAHZGkVNN2zyi9PrxNFwKam130",
 	"spine": "3.8.99",
 	"x": -53.82,
 	"y": -57.56,
@@ -188,16 +188,7 @@
 			}
 		}
 	},
-	"idle": {
-		"slots": {
-			"outerQ": {
-				"attachment": [
-					{ "name": null }
-				]
-			}
-		}
-	},
-	"win": {
+	"highlight": {
 		"slots": {
 			"leaf/leaf00": {
 				"color": [
@@ -309,6 +300,15 @@
 			"leaf": {
 				"scale": [
 					{ "x": 1.175, "y": 1.175 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"outerQ": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		}

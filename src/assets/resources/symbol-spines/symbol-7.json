@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "eAigfZtvw7R9YEwkOlzA/rYC2ec",
+	"hash": "hMUlJcTZwHOHNbYxBd7s9BSoPL0",
 	"spine": "3.8.99",
 	"x": -98,
-	"y": -72.18,
+	"y": -100.78,
 	"width": 200,
-	"height": 140.8,
+	"height": 198,
 	"images": "./ime/",
 	"audio": "D:/MYWORKFOLDER/design/TOTEM/dedanh/5"
 },
@@ -16,7 +16,7 @@
 	{ "name": "egg_front", "parent": "_subroot", "y": 59.33 },
 	{ "name": "explode", "parent": "root" },
 	{ "name": "la", "parent": "root" },
-	{ "name": "fire", "parent": "_subroot2", "y": 58.93, "scaleX": 1.8995, "scaleY": 2.5601 },
+	{ "name": "fire", "parent": "_subroot2", "y": 58.93, "scaleX": 2.6, "scaleY": 3.6 },
 	{ "name": "bg2", "parent": "root" },
 	{ "name": "conmat", "parent": "_subroot", "x": -33.48, "y": 95.25, "scaleX": 1.85, "scaleY": 1.85 },
 	{
@@ -28,15 +28,16 @@
 		"scaleX": 1.85,
 		"scaleY": 1.85,
 		"shearX": -176.95
-	}
+	},
+	{ "name": "la2", "parent": "root" }
 ],
 "slots": [
 	{ "name": "bg2", "bone": "bg2", "attachment": "bg2" },
-	{ "name": "bg", "bone": "bg2", "attachment": "bg" },
 	{ "name": "egg_gr", "bone": "_subroot" },
 	{ "name": "matgau", "bone": "_subroot", "attachment": "bao" },
 	{ "name": "boom/boom_00233", "bone": "explode", "attachment": "boom/boom_00268" },
 	{ "name": "leaf/leaf00", "bone": "la", "attachment": "leaf/leaf26" },
+	{ "name": "leaf/leaf0", "bone": "la2", "attachment": "leaf/leaf26" },
 	{ "name": "fire8/fire0", "bone": "fire", "color": "ffffff9a", "attachment": "fire8/fire8" },
 	{ "name": "matho", "bone": "conmat", "attachment": "matho" },
 	{ "name": "matho2", "bone": "conmat2", "attachment": "matho" }
@@ -45,9 +46,6 @@
 	{
 		"name": "default",
 		"attachments": {
-			"bg": {
-				"bg": { "x": 0.5, "width": 103, "height": 94 }
-			},
 			"bg2": {
 				"bg2": { "x": 0.5, "width": 103, "height": 94 }
 			},
@@ -100,6 +98,35 @@
 				"fire8/fire7": { "width": 110, "height": 110 },
 				"fire8/fire8": { "width": 110, "height": 110 }
 			},
+			"leaf/leaf0": {
+				"leaf/leaf00": { "width": 110, "height": 60 },
+				"leaf/leaf01": { "width": 110, "height": 60 },
+				"leaf/leaf02": { "width": 110, "height": 60 },
+				"leaf/leaf03": { "width": 110, "height": 60 },
+				"leaf/leaf04": { "width": 110, "height": 60 },
+				"leaf/leaf05": { "width": 110, "height": 60 },
+				"leaf/leaf06": { "width": 110, "height": 60 },
+				"leaf/leaf07": { "width": 110, "height": 60 },
+				"leaf/leaf08": { "width": 110, "height": 60 },
+				"leaf/leaf09": { "width": 110, "height": 60 },
+				"leaf/leaf10": { "width": 110, "height": 60 },
+				"leaf/leaf11": { "width": 110, "height": 60 },
+				"leaf/leaf12": { "width": 110, "height": 60 },
+				"leaf/leaf13": { "width": 110, "height": 60 },
+				"leaf/leaf14": { "width": 110, "height": 60 },
+				"leaf/leaf15": { "width": 110, "height": 60 },
+				"leaf/leaf16": { "width": 110, "height": 60 },
+				"leaf/leaf17": { "width": 110, "height": 60 },
+				"leaf/leaf18": { "width": 110, "height": 60 },
+				"leaf/leaf19": { "width": 110, "height": 60 },
+				"leaf/leaf20": { "width": 110, "height": 60 },
+				"leaf/leaf21": { "width": 110, "height": 60 },
+				"leaf/leaf22": { "width": 110, "height": 60 },
+				"leaf/leaf23": { "width": 110, "height": 60 },
+				"leaf/leaf24": { "width": 110, "height": 60 },
+				"leaf/leaf25": { "width": 110, "height": 60 },
+				"leaf/leaf26": { "width": 110, "height": 60 }
+			},
 			"leaf/leaf00": {
 				"leaf/leaf00": { "width": 110, "height": 60 },
 				"leaf/leaf01": { "width": 110, "height": 60 },
@@ -133,7 +160,7 @@
 				"bao": {
 					"type": "mesh",
 					"uvs": [ 1, 0, 0.99248, 0.29162, 1, 0.49757, 0.9787, 0.84674, 0.89604, 0.90517, 0.69078, 0.90517, 0.5047, 0.90516, 0.21761, 0.90517, 0.03513, 0.82015, 0, 0.66033, 0, 0.41436, 0.00743, 0.21938, 0, 0.04522, 0.3713, 0, 0.52901, 0, 0.67039, 0, 0.27647, 0.68298, 0.49916, 0.73996, 0.75759, 0.69289, 0.25818, 0.51054, 0.50287, 0.51797, 0.77229, 0.50807, 0.26093, 0.32848, 0.50287, 0.30123, 0.75442, 0.32352, 0.3694, 0.19844, 0.63655, 0.19596, 0.50211, 0.1799 ],
-					"triangles": [ 17, 20, 18, 17, 16, 20, 18, 20, 21, 16, 19, 20, 19, 22, 20, 20, 24, 21, 22, 23, 20, 20, 23, 24, 22, 25, 23, 23, 26, 24, 25, 27, 23, 23, 27, 26, 4, 5, 18, 18, 5, 17, 4, 18, 3, 7, 17, 6, 7, 16, 17, 7, 8, 16, 5, 6, 17, 3, 18, 2, 2, 18, 21, 8, 9, 16, 9, 19, 16, 9, 10, 19, 19, 10, 22, 21, 24, 2, 24, 1, 2, 10, 11, 22, 22, 11, 25, 24, 26, 1, 1, 26, 0, 0, 26, 15, 11, 12, 25, 25, 13, 27, 25, 12, 13, 27, 14, 26, 26, 14, 15, 27, 13, 14 ],
+					"triangles": [ 23, 27, 26, 25, 27, 23, 23, 26, 24, 22, 25, 23, 20, 23, 24, 22, 23, 20, 20, 24, 21, 19, 22, 20, 16, 19, 20, 18, 20, 21, 17, 16, 20, 17, 20, 18, 27, 13, 14, 26, 14, 15, 27, 14, 26, 25, 12, 13, 25, 13, 27, 11, 12, 25, 0, 26, 15, 1, 26, 0, 24, 26, 1, 22, 11, 25, 10, 11, 22, 24, 1, 2, 21, 24, 2, 19, 10, 22, 9, 10, 19, 9, 19, 16, 8, 9, 16, 2, 18, 21, 3, 18, 2, 5, 6, 17, 7, 8, 16, 7, 16, 17, 7, 17, 6, 4, 18, 3, 18, 5, 17, 4, 5, 18 ],
 					"vertices": [ 1, 2, 99.33, 167.59, 1, 1, 2, 97.87, 104.25, 1, 1, 2, 99.35, 59.53, 1, 1, 2, 95.17, -16.32, 1, 1, 2, 79.01, -28.99, 1, 1, 2, 38.83, -29, 1, 1, 2, 2.42, -29, 1, 1, 2, -53.76, -29.01, 1, 1, 2, -89.48, -10.54, 1, 1, 2, -96.35, 24.17, 1, 1, 2, -96.35, 77.6, 1, 1, 2, -94.89, 119.95, 1, 1, 2, -96.35, 157.78, 1, 1, 2, -23.68, 167.6, 1, 1, 2, 7.18, 167.6, 1, 1, 2, 34.84, 167.59, 1, 2, 2, -42.24, 19.26, 0.608, 3, -42.24, -40.08, 0.392, 2, 2, 1.34, 6.88, 0.392, 3, 1.34, -52.45, 0.608, 2, 2, 51.91, 17.1, 0.6, 3, 51.91, -42.23, 0.4, 2, 2, -45.82, 56.71, 0.32, 3, -45.82, -2.62, 0.68, 1, 3, 2.06, -4.24, 1, 2, 2, 54.78, 57.25, 0.368, 3, 54.78, -2.09, 0.632, 2, 2, -45.28, 96.25, 0.496, 3, -45.28, 36.92, 0.504, 2, 2, 2.06, 102.17, 0.248, 3, 2.06, 42.84, 0.752, 2, 2, 51.29, 97.33, 0.44, 3, 51.29, 37.99, 0.56, 2, 2, -24.06, 124.5, 0.64, 3, -24.06, 65.16, 0.36, 2, 2, 28.22, 125.04, 0.608, 3, 28.22, 65.7, 0.392, 2, 2, 1.91, 128.52, 0.40876, 3, 1.91, 69.19, 0.59124 ],
 					"hull": 16,
 					"edges": [ 18, 16, 16, 14, 14, 12, 12, 10, 10, 8, 8, 6, 18, 20, 20, 22, 22, 24, 24, 26, 30, 0, 0, 2, 6, 4, 2, 4, 32, 34, 34, 36, 38, 40, 40, 42, 44, 46, 46, 48, 26, 28, 28, 30, 50, 54, 54, 52 ],
@@ -156,11 +183,6 @@
 "animations": {
 	"explode": {
 		"slots": {
-			"bg": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
 			"bg2": {
 				"attachment": [
 					{ "name": null }
@@ -199,7 +221,42 @@
 					{ "name": null }
 				]
 			},
+			"leaf/leaf0": {
+				"color": [
+					{ "color": "f49e19ff" }
+				],
+				"attachment": [
+					{ "name": "leaf/leaf00" },
+					{ "time": 0.0333, "name": "leaf/leaf01" },
+					{ "time": 0.0667, "name": "leaf/leaf02" },
+					{ "time": 0.1, "name": "leaf/leaf03" },
+					{ "time": 0.1333, "name": "leaf/leaf04" },
+					{ "time": 0.1667, "name": "leaf/leaf05" },
+					{ "time": 0.2, "name": "leaf/leaf06" },
+					{ "time": 0.2333, "name": "leaf/leaf07" },
+					{ "time": 0.2667, "name": "leaf/leaf08" },
+					{ "time": 0.3, "name": "leaf/leaf09" },
+					{ "time": 0.3333, "name": "leaf/leaf10" },
+					{ "time": 0.3667, "name": "leaf/leaf11" },
+					{ "time": 0.4, "name": "leaf/leaf12" },
+					{ "time": 0.4333, "name": "leaf/leaf13" },
+					{ "time": 0.4667, "name": "leaf/leaf14" },
+					{ "time": 0.5, "name": "leaf/leaf15" },
+					{ "time": 0.5333, "name": "leaf/leaf16" },
+					{ "time": 0.5667, "name": "leaf/leaf17" },
+					{ "time": 0.6, "name": "leaf/leaf18" },
+					{ "time": 0.6333, "name": "leaf/leaf19" },
+					{ "time": 0.6667, "name": "leaf/leaf20" },
+					{ "time": 0.7, "name": "leaf/leaf21" },
+					{ "time": 0.7333, "name": "leaf/leaf22" },
+					{ "time": 0.7667, "name": "leaf/leaf23" },
+					{ "time": 0.8, "name": "leaf/leaf24" }
+				]
+			},
 			"leaf/leaf00": {
+				"color": [
+					{ "color": "f49e19ff" }
+				],
 				"attachment": [
 					{ "name": "leaf/leaf00" },
 					{ "time": 0.0333, "name": "leaf/leaf01" },
@@ -247,13 +304,6 @@
 	},
 	"highlight": {
 		"slots": {
-			"bg": {
-				"color": [
-					{ "time": 0.3333, "color": "ffffffff" },
-					{ "time": 0.8667, "color": "ffffff00" },
-					{ "time": 1.4333, "color": "ffffffff" }
-				]
-			},
 			"boom/boom_00233": {
 				"attachment": [
 					{ "name": null }
@@ -261,17 +311,22 @@
 			},
 			"fire8/fire0": {
 				"attachment": [
-					{ "time": 0.3, "name": null },
-					{ "time": 0.3333, "name": "fire8/fire0" },
-					{ "time": 0.3667, "name": "fire8/fire1" },
-					{ "time": 0.4, "name": "fire8/fire2" },
-					{ "time": 0.4333, "name": "fire8/fire3" },
-					{ "time": 0.4667, "name": "fire8/fire4" },
-					{ "time": 0.5, "name": "fire8/fire5" },
-					{ "time": 0.5333, "name": "fire8/fire6" },
-					{ "time": 0.5667, "name": "fire8/fire7" },
-					{ "time": 0.6, "name": "fire8/fire8" },
-					{ "time": 0.6333, "name": null }
+					{ "time": 0.0667, "name": null },
+					{ "time": 0.1, "name": "fire8/fire0" },
+					{ "time": 0.1333, "name": "fire8/fire1" },
+					{ "time": 0.1667, "name": "fire8/fire2" },
+					{ "time": 0.2, "name": "fire8/fire3" },
+					{ "time": 0.2333, "name": "fire8/fire4" },
+					{ "time": 0.2667, "name": "fire8/fire5" },
+					{ "time": 0.3, "name": "fire8/fire6" },
+					{ "time": 0.3333, "name": "fire8/fire7" },
+					{ "time": 0.3667, "name": "fire8/fire8" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"leaf/leaf0": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
 			"leaf/leaf00": {
@@ -443,16 +498,12 @@
 	},
 	"idle": {
 		"slots": {
-			"bg": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.5333, "color": "ffffffff" },
-					{ "time": 1.1, "color": "ffffff00" },
-					{ "time": 1.6667, "color": "ffffffff" },
-					{ "time": 2.2333, "color": "ffffff00" }
+			"fire8/fire0": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
-			"fire8/fire0": {
+			"leaf/leaf0": {
 				"attachment": [
 					{ "name": null }
 				]
@@ -464,20 +515,18 @@
 			},
 			"matho": {
 				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.2667, "color": "ffffff00" },
-					{ "time": 0.3, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 0.4333, "color": "ffffffff" },
-					{ "time": 0.4667, "color": "ffffff00" }
+					{ "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
 				]
 			},
 			"matho2": {
 				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.2667, "color": "ffffff00" },
-					{ "time": 0.3, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 0.4333, "color": "ffffffff" },
-					{ "time": 0.4667, "color": "ffffff00" }
+					{ "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		},

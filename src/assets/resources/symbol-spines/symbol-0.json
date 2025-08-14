@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "mLlHFonr8J6lOCinfm6juwBlW/M",
+	"hash": "wPzD3nruI3fPSa/i5pY4e+oQ6+U",
 	"spine": "3.8.99",
 	"x": -100,
 	"y": -56.16,
@@ -188,21 +188,7 @@
 			}
 		}
 	},
-	"idle": {
-		"slots": {
-			"leaf/leaf00": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"outer1": {
-				"attachment": [
-					{ "name": null }
-				]
-			}
-		}
-	},
-	"win": {
+	"highlight": {
 		"slots": {
 			"leaf/leaf00": {
 				"attachment": [
@@ -311,6 +297,20 @@
 			"leaf": {
 				"scale": [
 					{ "x": 1.175, "y": 1.175 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"leaf/leaf00": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"outer1": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		}
