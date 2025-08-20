@@ -124,8 +124,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 100,
-      "height": 100
+      "width": 1398,
+      "height": 786
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -161,7 +161,7 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "ab14a309-d0d5-462e-84b7-eabefd6c745b",
+      "__uuid__": "d017577b-815d-482b-baf1-ee6c813bd59d",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",

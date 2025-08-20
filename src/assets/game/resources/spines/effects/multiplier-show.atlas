@@ -1,0 +1,167 @@
+
+multiplier-show.webp
+size: 1912,1512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/0
+  rotate: false
+  xy: 2, 1210
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/1
+  rotate: false
+  xy: 2, 908
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/10
+  rotate: false
+  xy: 806, 908
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/11
+  rotate: false
+  xy: 1208, 1210
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/12
+  rotate: false
+  xy: 2, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/13
+  rotate: false
+  xy: 404, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/14
+  rotate: false
+  xy: 806, 606
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/15
+  rotate: false
+  xy: 1208, 908
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/16
+  rotate: true
+  xy: 1610, 1110
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/17
+  rotate: false
+  xy: 404, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/18
+  rotate: false
+  xy: 806, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/19
+  rotate: false
+  xy: 1208, 606
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/2
+  rotate: false
+  xy: 404, 1210
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/20
+  rotate: true
+  xy: 1610, 708
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/21
+  rotate: false
+  xy: 806, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/22
+  rotate: false
+  xy: 1208, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/23
+  rotate: true
+  xy: 1610, 306
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/24
+  rotate: false
+  xy: 1208, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/3
+  rotate: false
+  xy: 2, 606
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/4
+  rotate: false
+  xy: 404, 908
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/5
+  rotate: false
+  xy: 806, 1210
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/6
+  rotate: false
+  xy: 2, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+2/9
+  rotate: false
+  xy: 404, 606
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
