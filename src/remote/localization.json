@@ -1,22 +1,30 @@
 {
-    "lobbyNames": {
-        "en": "Totem Rush",
-        "id": "Totem Rush",
-        "th": "Totem Rush",
-        "vi": "Tổ Vật\nMay Mắn",
-        "zh_cn": "图腾冲刺",
-        "zh_tw": "图腾冲刺",
-        "ja": "トーテム \nラッシュ",
-        "es": "Totem Rush"
-    },
-    "gameNames": {
-        "en": "Totem Rush",
-        "id": "Totem Rush",
-        "th": "Totem Rush",
-        "vi": "Tổ Vật May Mắn",
-        "zh_cn": "图腾冲刺",
-        "zh_tw": "图腾冲刺",
-        "ja": "トーテム ラッシュ",
-        "es": "Totem Rush"
-    }
+  "lobbyNames": {
+    "en": "Totem Rush",
+    "es": "Totem Rush",
+    "fil_ph": "Totem Bugso",
+    "id": "Totem Rush",
+    "ja": "トーテム \nラッシュ",
+    "ko": "토템 러시",
+    "pt_br": "Totem Rush",
+    "th": "Totem Rush",
+    "tr": "Totem Hücumu",
+    "vi": "Tổ Vật\nMay Mắn",
+    "zh_cn": "图腾冲刺",
+    "zh_tw": "图腾冲刺"
+  },
+  "gameNames": {
+    "en": "Totem Rush",
+    "es": "Totem Rush",
+    "fil_ph": "Totem Bugso",
+    "id": "Totem Rush",
+    "ja": "トーテムラッシュ",
+    "ko": "토템 러시",
+    "pt_br": "Totem Rush",
+    "th": "Totem Rush",
+    "tr": "Totem Hücumu",
+    "vi": "Tổ Vật May Mắn",
+    "zh_cn": "图腾冲刺",
+    "zh_tw": "图腾冲刺"
+  }
 }

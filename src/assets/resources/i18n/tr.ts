@@ -58,7 +58,11 @@ export const languages = {
     "auto_spin": "Otomatik Dönüş",
     "show_msg_when_spin_desktop": "BOŞLUK TUŞUNA BASILI TUTUN VEYA DÖNDÜR'E TIKLAYIN",
     "scatter_odds_preview": "%{numOfScatters}+ Scatter, %{numOfSpins} FREE SPINS'i tetikler.",
-    "coin_value_shorten": "Jeton Değeri"
+    "coin_value_shorten": "Jeton Değeri",
+    "you_have_won": "You Have Won",
+    "in_free_spins": "In {value} Free Spins",
+    "free_spins_active": "Free Spins Active",
+    "tumble_win": "Basamaklı Kazanç"
   },
   "Common": {
     "bet_history": "Bahis Geçmişi",
@@ -289,26 +293,15 @@ export const languages = {
     "sabaplay_tagline": "Oyunun Ötesinde",
     "message_loading": "Yükleniyor",
     "message_place_bets": "Bahislerinizi Yapın",
-    "copy_successfully_md5": "Kopyalama başarılı!"
+    "copy_successfully_md5": "Kopyalama başarılı!",
+    "message_error_claim_expired": "Bonussun süresi doldu. Artık mevcut değil. (%{errorCode})",
+    "pf_header_server_seed_sha256_single": "Sunucu Tohumu SHA256",
+    "pf_ header_merge_client_seed_single": "Müşteri Tohumunu Birleştir",
+    "player": "Oyuncu"
   },
-  "DragonTigerFight": {
-    "option_black": "Siyah",
-    "option_red": "Kırmızı",
-    "glossary_blackDragon": "Siyah Ejderha",
-    "glossary_blackTiger": "Siyah Kaplan",
-    "glossary_dragon": "Ejderha",
-    "glossary_redDragon": "Kırmızı Ejderha",
-    "glossary_redTiger": "Kırmızı Kaplan",
-    "glossary_tie": "Berabere",
-    "glossary_tiger": "Kaplan",
-    "game_icon_name": "Ejderha Kaplan Savaşı",
-    "game_name": "Ejderha Kaplan Savaşı",
-    "bet_history_dragon": "(Ejderha",
-    "bet_history_tiger": "Kaplan)",
-    "tiger_win": "KAPLAN KAZANIR",
-    "dragon_win": "EJDERHA KAZANIR",
-    "tie_win": "BERABERE!",
-    "game_icon_name_ph": "Ejderha Kaplan \nDövüşü"
+  "TotemRush": {
+    "game_icon_name": "Totem Hücumu",
+    "game_name": "Totem Hücumu"
   }
 };
 
