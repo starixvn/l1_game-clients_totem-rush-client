@@ -11,8 +11,8 @@
         "progress": 1,
         "state": "success",
         "stage": "build",
-        "message": "8-20-2025 16:41:41 build success in 3 min 18 s!",
-        "detailMessage": "refresh db internal success\r",
+        "message": "8-21-2025 10:21:29 build success in 1 min 30 s!",
+        "detailMessage": "Asset DB is resume!\r",
         "options": {
           "name": "cocos-3x",
           "platform": "web-mobile",
@@ -101,7 +101,7 @@
           "mangleProperties": false,
           "inlineEnum": true
         },
-        "time": "8-20-2025 16:38:22",
+        "time": "8-21-2025 10:19:58",
         "dirty": false
       }
     }
