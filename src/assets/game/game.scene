@@ -13340,7 +13340,7 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "9624fe77-cb88-4317-a197-acbedba1213c",
+      "__uuid__": "63b7ff1c-a0bb-4c76-bc0e-08ece6a4768f",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
@@ -13452,7 +13452,7 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "a042ed6d-ecd8-40dc-9c81-42af046a595c",
+      "__uuid__": "f80fbabc-c3cf-4936-ae2f-d7fe7f69c76d",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
@@ -13524,8 +13524,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 475.865,
-      "y": 95.146,
+      "x": 475.3700000000001,
+      "y": 101.12,
       "z": 0
     },
     "_lrot": {
@@ -13594,7 +13594,7 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "a042ed6d-ecd8-40dc-9c81-42af046a595c",
+      "__uuid__": "f80fbabc-c3cf-4936-ae2f-d7fe7f69c76d",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
@@ -13625,9 +13625,9 @@
     "_alignFlags": 36,
     "_target": null,
     "_left": 0,
-    "_right": -3.035013427734441,
+    "_right": -2.5400134277344364,
     "_top": 0,
-    "_bottom": -5.973995117187499,
+    "_bottom": 0.0000048828125045474735,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -13736,7 +13736,7 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "7b19fbe1-1c55-4016-8b50-7960517eceb2",
+      "__uuid__": "d76d18cc-8e98-4ed9-922f-532db4906e76",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
@@ -13878,7 +13878,7 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "e69f14a2-0c28-47bd-b3bb-940dafc790d1",
+      "__uuid__": "a2289b3a-95da-499d-bdb7-c89d1b0ba572",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",

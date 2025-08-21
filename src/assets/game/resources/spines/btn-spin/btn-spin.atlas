@@ -1,411 +1,411 @@
 
 btn-spin.webp
-size: 1122,534
+size: 1571,279
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bg
   rotate: false
-  xy: 548, 177
+  xy: 205, 104
   size: 173, 173
   orig: 175, 175
   offset: 1, 1
   index: -1
 black-72-disable
   rotate: false
-  xy: 366, 2
+  xy: 380, 111
   size: 164, 166
   orig: 171, 173
   offset: 3, 4
   index: -1
 electric circle/Electric _1
-  rotate: false
-  xy: 2, 149
-  size: 180, 180
+  rotate: true
+  xy: 403, 3
+  size: 106, 78
   orig: 180, 180
-  offset: 0, 0
+  offset: 41, 60
   index: -1
 electric circle/Electric _2
-  rotate: false
-  xy: 205, 352
-  size: 180, 180
+  rotate: true
+  xy: 1162, 2
+  size: 113, 114
   orig: 180, 180
-  offset: 0, 0
+  offset: 32, 33
   index: -1
 electric circle/Electric _3
-  rotate: false
-  xy: 387, 352
-  size: 180, 180
+  rotate: true
+  xy: 899, 157
+  size: 120, 114
   orig: 180, 180
-  offset: 0, 0
+  offset: 30, 33
   index: -1
 electric circle/Electric _4
-  rotate: false
-  xy: 569, 352
-  size: 180, 180
+  rotate: true
+  xy: 546, 155
+  size: 122, 114
   orig: 180, 180
-  offset: 0, 0
+  offset: 30, 33
   index: -1
 electric circle/Electric _5
-  rotate: false
-  xy: 751, 352
-  size: 180, 180
+  rotate: true
+  xy: 1015, 159
+  size: 118, 117
   orig: 180, 180
-  offset: 0, 0
+  offset: 30, 31
   index: -1
 electric circle/Electric _6
   rotate: false
-  xy: 933, 352
-  size: 180, 180
+  xy: 1134, 161
+  size: 115, 116
   orig: 180, 180
-  offset: 0, 0
+  offset: 32, 32
   index: -1
 electric circle/Electric _7
-  rotate: false
-  xy: 184, 149
-  size: 180, 180
+  rotate: true
+  xy: 662, 156
+  size: 121, 116
   orig: 180, 180
-  offset: 0, 0
+  offset: 28, 33
   index: -1
 electric circle/Electric _8
-  rotate: false
-  xy: 366, 170
-  size: 180, 180
+  rotate: true
+  xy: 780, 157
+  size: 120, 117
   orig: 180, 180
-  offset: 0, 0
+  offset: 29, 33
   index: -1
 hover/hover_1
   rotate: false
-  xy: 2, 331
+  xy: 2, 76
   size: 201, 201
   orig: 203, 203
   offset: 1, 1
   index: -1
 ime/leaf/leaf00
-  rotate: false
-  xy: 576, 51
+  rotate: true
+  xy: 1294, 181
   size: 96, 37
   orig: 110, 60
   offset: 10, 15
   index: -1
 ime/leaf/leaf01
   rotate: true
-  xy: 325, 48
+  xy: 1121, 14
   size: 99, 39
   orig: 110, 60
   offset: 8, 13
   index: -1
 ime/leaf/leaf02
   rotate: false
-  xy: 723, 157
+  xy: 650, 111
   size: 101, 42
   orig: 110, 60
   offset: 7, 11
   index: -1
 ime/leaf/leaf03
-  rotate: false
-  xy: 218, 2
+  rotate: true
+  xy: 736, 7
   size: 102, 44
   orig: 110, 60
   offset: 6, 9
   index: -1
 ime/leaf/leaf04
-  rotate: false
-  xy: 218, 48
+  rotate: true
+  xy: 686, 6
   size: 103, 48
   orig: 110, 60
   offset: 5, 5
   index: -1
 ime/leaf/leaf05
   rotate: false
-  xy: 723, 301
+  xy: 109, 25
   size: 104, 49
   orig: 110, 60
   offset: 4, 4
   index: -1
 ime/leaf/leaf06
-  rotate: false
-  xy: 723, 251
+  rotate: true
+  xy: 585, 5
   size: 104, 48
   orig: 110, 60
   offset: 4, 4
   index: -1
 ime/leaf/leaf07
-  rotate: false
-  xy: 829, 301
+  rotate: true
+  xy: 635, 6
   size: 103, 49
   orig: 110, 60
   offset: 4, 3
   index: -1
 ime/leaf/leaf08
-  rotate: false
-  xy: 112, 47
+  rotate: true
+  xy: 483, 5
   size: 104, 49
   orig: 110, 60
   offset: 4, 2
   index: -1
 ime/leaf/leaf09
   rotate: false
-  xy: 112, 98
+  xy: 2, 25
   size: 105, 49
   orig: 110, 60
   offset: 3, 2
   index: -1
 ime/leaf/leaf10
-  rotate: false
-  xy: 219, 98
+  rotate: true
+  xy: 534, 5
   size: 104, 49
   orig: 110, 60
   offset: 4, 1
   index: -1
 ime/leaf/leaf11
-  rotate: false
-  xy: 723, 201
+  rotate: true
+  xy: 215, 2
   size: 100, 48
   orig: 110, 60
   offset: 4, 1
   index: -1
 ime/leaf/leaf12
-  rotate: false
-  xy: 829, 251
+  rotate: true
+  xy: 353, 3
   size: 99, 48
   orig: 110, 60
   offset: 5, 0
   index: -1
 ime/leaf/leaf13
-  rotate: false
-  xy: 934, 304
+  rotate: true
+  xy: 979, 12
   size: 99, 46
   orig: 110, 60
   offset: 5, 0
   index: -1
 ime/leaf/leaf14
-  rotate: false
-  xy: 825, 204
+  rotate: true
+  xy: 1027, 12
   size: 99, 45
   orig: 110, 60
   offset: 6, 0
   index: -1
 ime/leaf/leaf15
-  rotate: false
-  xy: 826, 157
+  rotate: true
+  xy: 1074, 14
   size: 99, 45
   orig: 110, 60
   offset: 6, 0
   index: -1
 ime/leaf/leaf16
   rotate: false
-  xy: 112, 2
+  xy: 753, 111
   size: 102, 43
   orig: 110, 60
   offset: 6, 2
   index: -1
 ime/leaf/leaf17
-  rotate: true
-  xy: 532, 66
+  rotate: false
+  xy: 546, 111
   size: 102, 42
   orig: 110, 60
   offset: 6, 2
   index: -1
 ime/leaf/leaf18
-  rotate: false
-  xy: 576, 90
+  rotate: true
+  xy: 826, 8
   size: 101, 41
   orig: 110, 60
   offset: 6, 2
   index: -1
 ime/leaf/leaf19
   rotate: true
-  xy: 679, 75
+  xy: 265, 2
   size: 100, 42
   orig: 110, 60
   offset: 7, 2
   index: -1
 ime/leaf/leaf20
   rotate: false
-  xy: 825, 113
+  xy: 857, 113
   size: 99, 42
   orig: 110, 60
   offset: 7, 2
   index: -1
 ime/leaf/leaf21
   rotate: false
-  xy: 723, 69
+  xy: 958, 113
   size: 99, 42
   orig: 110, 60
   offset: 8, 2
   index: -1
 ime/leaf/leaf22
-  rotate: false
-  xy: 723, 113
+  rotate: true
+  xy: 309, 2
   size: 100, 42
   orig: 110, 60
   offset: 8, 2
   index: -1
 ime/leaf/leaf23
-  rotate: false
-  xy: 576, 133
+  rotate: true
+  xy: 782, 8
   size: 101, 42
   orig: 110, 60
   offset: 7, 1
   index: -1
 ime/leaf/leaf24
   rotate: false
-  xy: 922, 46
+  xy: 1157, 117
   size: 93, 42
   orig: 110, 60
   offset: 7, 1
   index: -1
 ime/leaf/leaf25
-  rotate: false
-  xy: 927, 175
+  rotate: true
+  xy: 1333, 182
   size: 95, 41
   orig: 110, 60
   offset: 6, 1
   index: -1
 ime/leaf/leaf26
-  rotate: false
-  xy: 934, 261
+  rotate: true
+  xy: 1251, 181
   size: 96, 41
   orig: 110, 60
   offset: 5, 1
   index: -1
 ime/leaf/leaf27
   rotate: false
-  xy: 824, 69
+  xy: 1059, 115
   size: 96, 42
   orig: 110, 60
   offset: 5, 0
   index: -1
 ime/leaf/leaf28
   rotate: false
-  xy: 930, 218
+  xy: 1252, 138
   size: 96, 41
   orig: 110, 60
   offset: 5, 0
   index: -1
 ime/leaf/leaf29
-  rotate: false
-  xy: 927, 133
+  rotate: true
+  xy: 1278, 41
   size: 95, 40
   orig: 110, 60
   offset: 6, 0
   index: -1
 ime/leaf/leaf30
-  rotate: false
-  xy: 926, 90
+  rotate: true
+  xy: 1320, 42
   size: 94, 41
   orig: 110, 60
   offset: 7, 0
   index: -1
 ime/leaf/leaf31
   rotate: false
-  xy: 532, 8
+  xy: 1350, 139
   size: 93, 41
   orig: 110, 60
   offset: 8, 0
   index: -1
 ime/leaf/leaf32
-  rotate: false
-  xy: 627, 8
+  rotate: true
+  xy: 1376, 184
   size: 93, 41
   orig: 110, 60
   offset: 9, 0
   index: -1
 ime/leaf/leaf33
-  rotate: false
-  xy: 722, 27
+  rotate: true
+  xy: 1419, 184
   size: 93, 40
   orig: 110, 60
   offset: 9, 1
   index: -1
 ime/leaf/leaf34
-  rotate: false
-  xy: 817, 26
+  rotate: true
+  xy: 1363, 47
   size: 90, 41
   orig: 110, 60
   offset: 9, 0
   index: -1
 ime/leaf/leaf35
   rotate: false
-  xy: 1032, 261
+  xy: 1445, 141
   size: 88, 41
   orig: 110, 60
   offset: 8, 0
   index: -1
 ime/leaf/leaf36
   rotate: false
-  xy: 1024, 97
+  xy: 1447, 11
   size: 87, 39
   orig: 110, 60
   offset: 8, 0
   index: -1
 ime/leaf/leaf37
   rotate: false
-  xy: 1028, 180
+  xy: 1357, 2
   size: 88, 38
   orig: 110, 60
   offset: 7, 1
   index: -1
 ime/leaf/leaf38
-  rotate: false
-  xy: 909, 5
+  rotate: true
+  xy: 1406, 48
   size: 89, 39
   orig: 110, 60
   offset: 7, 1
   index: -1
 ime/leaf/leaf39
-  rotate: false
-  xy: 1028, 220
+  rotate: true
+  xy: 1461, 188
   size: 89, 39
   orig: 110, 60
   offset: 8, 1
   index: -1
 ime/leaf/leaf40
-  rotate: false
-  xy: 1024, 138
+  rotate: true
+  xy: 1502, 190
   size: 87, 40
   orig: 110, 60
   offset: 8, 0
   index: -1
 ime/leaf/leaf41
   rotate: true
-  xy: 1058, 8
+  xy: 1447, 52
   size: 87, 40
   orig: 110, 60
   offset: 8, 0
   index: -1
 ime/leaf/leaf42
   rotate: true
-  xy: 1017, 2
+  xy: 1489, 53
   size: 86, 39
   orig: 110, 60
   offset: 8, 0
   index: -1
 ime/leaf/leaf43
-  rotate: false
-  xy: 1035, 311
+  rotate: true
+  xy: 1530, 56
   size: 83, 39
   orig: 110, 60
   offset: 11, 0
   index: -1
 ime/leaf/leaf44
   rotate: false
-  xy: 2, 3
+  xy: 1278, 5
   size: 77, 34
   orig: 110, 60
   offset: 16, 3
   index: -1
 light2
-  rotate: false
-  xy: 81, 11
+  rotate: true
+  xy: 1535, 161
   size: 27, 26
   orig: 39, 38
   offset: 6, 6
   index: -1
 spin
   rotate: false
-  xy: 2, 39
+  xy: 869, 3
   size: 108, 108
   orig: 110, 110
   offset: 1, 1
