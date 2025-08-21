@@ -1,7 +1,4 @@
 {
     "mainNamespace": "TotemRush",
-    "additionalNamespaces": [
-        "Common",
-        "cascadingslot"
-    ]
+    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
 }
