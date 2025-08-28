@@ -4,16 +4,6 @@
         "path": "big-win",
         "isLazyLoad": true
     },
-    "mega-win": {
-        "bundle": "resources",
-        "path": "mega-win",
-        "isLazyLoad": true
-    },
-    "super-win": {
-        "bundle": "resources",
-        "path": "super-win",
-        "isLazyLoad": true
-    },
     "big_win_stop": {
         "bundle": "resources",
         "path": "big-win-increment-ended",
@@ -114,7 +104,7 @@
         "path": "increment",
         "isLazyLoad": true
     },
-    "increment-stop": {
+    "increment_stop": {
         "bundle": "resources",
         "path": "increment-stop",
         "isLazyLoad": true
