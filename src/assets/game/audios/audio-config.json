@@ -19,6 +19,11 @@
         "path": "click",
         "isLazyLoad": true
     },
+    "click_symbol": {
+        "bundle": "resources",
+        "path": "click-symbol",
+        "isLazyLoad": true
+    },
     "coin": {
         "bundle": "resources",
         "path": "coin",
@@ -79,6 +84,11 @@
         "path": "multiplier-appear",
         "isLazyLoad": true
     },
+    "multiplier_land": {
+        "bundle": "resources",
+        "path": "multiplier-land",
+        "isLazyLoad": true
+    },
     "tumble_win": {
         "bundle": "resources",
         "path": "symbol-match",
@@ -94,7 +104,7 @@
         "path": "increment",
         "isLazyLoad": true
     },
-    "increment_stop": {
+    "increment-stop": {
         "bundle": "resources",
         "path": "increment-stop",
         "isLazyLoad": true

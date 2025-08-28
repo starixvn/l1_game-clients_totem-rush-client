@@ -7,6 +7,7 @@ export enum AudioIds {
     INCREMENT = "increment",
     INCREMENT_STOP = "increment-stop",
     MULTIPLIER_APPEAR = "multiplier-appear",
+    MULTIPLIER_LAND = "multiplier-land",
     PEEK_EFFECT_ITEM = "peek-effect-item",
     PEEK_EFFECT_REEL = "peek-effect-reel",
     PEEK_EFFECT_SHIFT = "peek-effect-shift",
@@ -22,5 +23,7 @@ export enum AudioIds {
     SYMBOL_MATCH = "symbol-match",
     TRANSITION = "transition",
     WINNING_LEVEL_UP = "winning-level-up",
-    TRANSFORM_FREESPINS = "transform-freespins"
+    TRANSFORM_FREESPINS = "transform-freespins",
+    CLICK_SYMBOL = "click-symbol"
+
 }
